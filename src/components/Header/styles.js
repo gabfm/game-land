@@ -33,7 +33,7 @@ export const StyledHeader = styled.header`
     }
     input:hover {
       height: 4rem;
-      background-color: #ffff;
+      background-color: #ffffff86;
       border-radius: 0.8rem;
       width: 100%;
       box-sizing: border-box; 
